@@ -1,2 +1,2 @@
-# Hackathons
-Code and Approach of various ML competitions i participated
+#AV_ClubM
+Code/Approach of Club Mahindra ML competition i participated
